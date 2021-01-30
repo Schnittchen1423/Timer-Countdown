@@ -1,6 +1,5 @@
 import os
 import time
-import socket
 
 #This is a countdown. Or call it timer. What ever. You just have to run this code and it'll ask you what amount of seconds it should run.
 #Savity warning: Only works on Mac (Apple). 
